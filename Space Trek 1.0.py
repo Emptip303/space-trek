@@ -1,8 +1,3 @@
-# INTERGALACTIC BATTLE
-# By Thanit Sangcharuk and Nguyen Minh Thong
-# Project 2 : Game Development Simulation
-
-
 # importing the required modules
 import os
 import sys
